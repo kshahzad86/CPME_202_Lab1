@@ -1,6 +1,6 @@
 
 // Cost : 50c   Accepts two Quarters
-class Gumball_machine_mode2
+class Gumball_machine_mode2 
 {
 	private int num_gumballs = 0;
 	private boolean has_coin = false;
@@ -13,7 +13,7 @@ class Gumball_machine_mode2
 	
 	public Gumball_machine_mode2(int size)
 	{
-		
+	  super(size);	
 	  this.num_gumballs = size;
 	  this.has_coin = false;
 	}
