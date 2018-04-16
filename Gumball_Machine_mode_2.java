@@ -1,4 +1,5 @@
 
+// Cost : 50c   Accepts two Quarters
 class Gumball_machine_mode2
 {
 	private int num_gumballs = 0;
