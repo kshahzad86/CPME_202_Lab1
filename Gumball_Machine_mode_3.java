@@ -1,4 +1,4 @@
-
+// Cost : 50   Accepts Nickle, Dime, Quarters
 class Gumball_machine_mode3 
 {
 	private int num_gumballs = 0;
