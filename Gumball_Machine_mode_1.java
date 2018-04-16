@@ -1,4 +1,4 @@
-
+// Cost : 25   Accepts only Quarter
 class Gumball_machine_mode1 
 {
 	private int num_gumballs;
